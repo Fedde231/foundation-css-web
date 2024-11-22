@@ -1,0 +1,10 @@
+@import './_settings';
+@import 'foundation';
+
+@include foundation-everything($prototype: true);
+
+h4 {
+    color: white;
+}
+
+// here you write your own styles
